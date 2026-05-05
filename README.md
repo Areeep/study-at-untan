@@ -27,13 +27,13 @@ npm install -g pnpm
 ### 1. Clone Repository
 
 ```sh
-git clone https://github.com/areeep/venio.git
+git clone https://github.com/Areeep/study-at-untan.git
 ```
 
 ### 2. Masuk ke Folder Project
 
 ```sh
-cd folder-project
+cd study-at-untan
 ```
 
 ### 3. Install Depedensi Frontend
