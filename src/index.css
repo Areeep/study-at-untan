@@ -2,4 +2,11 @@
 
 @theme {
   --font-inter: Inter, sans-serif;
+
+  --color-accent: oklch(0.7059 0.1384 88.04);
+  --color-accent-dark: oklch(0.4863 0.1012 78.5);
+
+  --color-cream: oklch(0.9579 0.0495 88.08);
+  --color-gray: oklch(0.3955 0.0121 252.94);
+  --color-navy: oklch(0.2144 0.0536 244.64);
 }
