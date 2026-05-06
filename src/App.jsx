@@ -1,9 +1,7 @@
+import Hero from "./sections/Hero";
+
 function App() {
-  return (
-    <div className="flex h-dvh items-center justify-center">
-      <p className="text-5xl font-bold">Study at UNTAN</p>
-    </div>
-  );
+  return <Hero />;
 }
 
 export default App;
