@@ -4,6 +4,7 @@ import Facilities from "./sections/Facilities";
 import CampusLife from "./sections/CampusLife";
 import Destinations from "./sections/Destinations";
 import Culinary from "./sections/Culinary";
+import LivingCost from "./sections/LivingCost";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <CampusLife />
       <Destinations />
       <Culinary />
+      <LivingCost />
     </>
   );
 }
