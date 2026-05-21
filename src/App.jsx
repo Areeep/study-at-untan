@@ -5,6 +5,7 @@ import CampusLife from "./sections/CampusLife";
 import PontianakCity from "./sections/PontianakCity";
 import Destinations from "./sections/Destinations";
 import Culinary from "./sections/Culinary";
+import LivingCost from "./sections/LivingCost";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <PontianakCity />
       <Destinations />
       <Culinary />
+      <LivingCost />
     </>
   );
 }
